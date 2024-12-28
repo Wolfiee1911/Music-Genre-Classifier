@@ -1,4 +1,4 @@
-# Music-Genre-Classifier
+# Music-Genre-Recognizer
 This project is a Music Genre Classifier that uses machine learning to predict the genre of a song based on its audio features.
 
 ### Features
